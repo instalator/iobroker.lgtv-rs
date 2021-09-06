@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "lgtv-rs",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "news": {
       "0.1.1": {
         "en": "change test",
@@ -70,7 +70,15 @@
     ],
     "readme": "https://github.com/instalator/ioBroker.lgtv-rs/blob/master/README.md",
     "loglevel": "info",
-    "type": "multimedia"
+    "type": "multimedia",
+    "titleLang": {
+      "en": "Controls LG TV over RS232 interface",
+      "de": "Controls LG TV over RS232 interface",
+      "ru": "Управление LG TV через интерфейс RS232.",
+      "pt": "Controls LG TV over RS232 interface",
+      "fr": "Controls LG TV over RS232 interface",
+      "nl": "Controls LG TV over RS232 interface"
+    }
   },
   "native": {
     "host": "127.0.0.1",
